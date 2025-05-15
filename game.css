@@ -1,0 +1,72 @@
+body
+{
+    background-color:antiquewhite;
+    text-align: center;
+}
+.btn
+{
+    height:18vmin;
+    width:18vmin;
+    margin:8px;
+    border-radius: 5px;
+    font-size: 8vmin;
+    box-shadow:0 0 1 rem black;
+    background-color:darkslategray;
+    color:black;
+   
+}
+.set
+{
+    height:30px;
+    width:55px;
+    align-items: center;
+    margin:20px;
+    border-radius: 4px;
+    background-color: aquamarine;
+    font-size: 15px;
+}
+.btnss
+{
+    height:45px;
+    width:90px;
+    
+    
+    border-radius: 4px;
+    background-color: aquamarine;
+    font-size: 15px;
+}
+.msgcon
+{
+    height:100px;
+    
+ 
+}
+.hide
+{
+    display:none;
+}
+.msg
+{
+    font-size: 5vmin;
+    color:black;
+}.game
+{
+    height:70vmin;
+    width:70vmin;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:1.5vmin;
+
+}
+.container
+{
+    height:70vh;
+    display:flex;
+    justify-content: center;
+    align-self: center;
+}
+
+
+
